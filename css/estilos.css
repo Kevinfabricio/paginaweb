@@ -1,0 +1,19 @@
+.imagen {
+    text-align: center;
+    display: block;
+}
+
+
+.titulo {
+    text-align: center;
+    display: block;
+}
+
+iframe {
+    border: 1px solid red;
+    width: 100%;
+
+}
+
+
+
